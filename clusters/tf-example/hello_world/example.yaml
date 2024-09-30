@@ -17,7 +17,7 @@ metadata:
 spec:
   interval: 1m
   approvePlan: auto
-  path: ./
+  path: ./clusters/tf-example/
   sourceRef:
     kind: GitRepository
     name: helloworld
